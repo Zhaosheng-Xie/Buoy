@@ -1,0 +1,10 @@
+1. Baptiste Auguie (2017). gridExtra: Miscellaneous Functions for “Grid” Graphics. R package version 2.3. https://CRAN.R-project.org/package=gridExtra 
+2. Garrett Grolemund, Hadley Wickham (2011). Dates and Times Made Easy with lubridate. Journal of Statistical Software, 40(3), 1-25. URL http://www.jstatsoft.org/v40/i03/.
+3. Goodrich B, Gabry J, Ali I & Brilleman S. (2020). rstanarm: Bayesian applied regression modeling via Stan. R package version 2.21.1 https://mc-stan.org/rstanarm. 
+4. Hadley Wickham (2019). stringr: Simple, Consistent Wrappers for Common String Operations. R package version 1.4.0. https://CRAN.R-project.org/package=stringr
+5. Hao Zhu (2020). kableExtra: Construct Complex Table with ‘kable’ and Pipe Syntax. R package version 1.2.1. https://CRAN.R-project.org/package=kableExtra 
+6. NDBC. (2000). Station 44013 [online]. Available from: https://www.ndbc.noaa.gov/station_page.ph p?station=44013 [accessed 25 September 2020]. 
+7. Climate Hot Map. GLOBAL WARMING EFFECTS AROUND THE WORLD Available from: https: //www.climatehotmap.org/global-warming-effects/air-temperature.html [accessed 25 September 2020]. 
+8. Wickham et al., (2019). Welcome to the tidyverse. Journal of Open Source Software, 4(43), 1686, https://doi.org/10.21105/joss.01686
+9. Yihui Xie (2020). knitr: A General-Purpose Package for Dynamic Report Generation in R. R package version 1.29.
+10. NASA. (2020). GLOBAL CLIMATE CHANGE [online]. Available from: https://climate.nasa.gov/evi dence/ [accessed 25 September 2020]. 
